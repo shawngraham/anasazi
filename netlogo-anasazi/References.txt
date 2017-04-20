@@ -1,0 +1,12 @@
+References
+
+AXTELL R L, Epstein J M, Dean J S, Gumerman G J, Swedlund A C, Harburger J, Chakravarty S, Hammond R, Parker J, and Parker M. (2002) Population Growth and Collapse in a Multi-Agent Model of the Kayenta Anasazi in Long House Valley. Proceedings of the National Academy of Sciences 99(3): 7275-7279.
+
+DEAN J S, Gumerman G J, Epstein J M, Axtell R L, Swedlund A C, Parker M T, and McCarroll S. (2000) Understanding Anasazi Culture Change Through Agent Based Modeling in Dynamics in Human and Primate Societies: Agent Based Modeling of Social and Spatial Processes, T. Kohler and G. Gumerman (eds.), Santa Fe Institute. New York & London: Oxford University Press.
+
+DIAMOND, J. (2002) Archaeology: Life with the artificial Anasazi, Nature 419: 567-569.
+Janssen, Marco A. (2009). 'Understanding Artificial Anasazi'. Journal of Artificial Societies and Social Simulation 12(4)13 <http://jasss.soc.surrey.ac.uk/12/4/13.html>.
+
+Janssen, Marco A. (2013, January 17). "Artificial Anasazi" (Version 2). CoMSES Computational Model Library. Retrieved from: http://hdl.handle.net/2286.0/oabm:2222
+
+Marco A. Janssen (2009) Understanding Artificial Anasazi, Journal of Artificial Societies and Social Simulation 12 (4) 13 http://jasss.soc.surrey.ac.uk
